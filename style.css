@@ -1,0 +1,7 @@
+/* Backgrounds */
+
+.bg-hero {
+  background: url(/images/desktop-bg.svg) no-repeat center center;
+  height: calc(100vh - 46px);
+  background-size: cover;
+}
